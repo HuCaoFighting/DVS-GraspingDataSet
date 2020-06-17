@@ -1,4 +1,4 @@
-# E-Grasping: Robotic Grasping Detectionwith Event-based Camera andEvent-Stream Dataset
+# Event-based Robotic Grasping Detection with Neuromorphic Vision Sensor and Event-Grasping Dataset
 a Grasping DataSet Captured by DVS (Dynamic vision sensor)
 
 # Overview
