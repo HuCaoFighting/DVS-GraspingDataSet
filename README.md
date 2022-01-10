@@ -5,7 +5,7 @@ a Grasping DataSet Captured by DVS (Dynamic vision sensor)
 This is the implementation of our recently work 'Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset'(https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full). 
 We construct a robotic grasping dataset name E-Grapsing with 91 objects. The dataset can be donwload from this link()
 
-If you find it helpful for your research, please consider citing:
+If you find it helpful for your research, please cite:
 
 ```bibtex
 @ARTICLE{10.3389/fnbot.2020.00051,
@@ -33,13 +33,13 @@ ISSN={1662-5218},
 ![image](https://github.com/HuCaoFighting/DVS-GraspingDataSet/blob/master/images/sampleeventrgb.jpg)
 # DataSets
 # Single Grasp DataSets
-we represent the tracked LED points with rectangles,each event frame acquires the ground truth of a good grasping position , as is shown in below
+We represent the tracked LED points with rectangles, each event frame acquires the ground truth of a good grasping position, as is shown in below
 
 
 ![image](https://github.com/HuCaoFighting/DVS-GraspingDataSet/blob/master/images/single_posi.png)
 
 # Multi-Grasp DataSets
-  we  manually  set  ground  truth  annotations  in  the  firstframe,  the  transformed  annotations  in  any  other  frame  canbe attained.The final dataset with multi-graspingannotations is illustrated in below
+We manually set ground truth annotations in the first frame, the transformed annotations in any other frame canbe attained. The final dataset with multi-grasping annotations is illustrated in below
   
   
  ![image](https://github.com/HuCaoFighting/DVS-GraspingDataSet/blob/master/images/multi_posi.png)
