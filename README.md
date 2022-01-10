@@ -2,13 +2,33 @@
 a Grasping DataSet Captured by DVS (Dynamic vision sensor)
 
 # Overview
-This is the implementation of our recently work 'E-Grasping: Robotic Grasping Detectionwith Event-based Camera andEvent-Stream Dataset'. 
-We construct a robotic grasping dataset name E-Grapsing with100  objects.  For  each  object,  there  are4020successive  grasping  annotations  in  different  views  with  atime resolution of1ms. A spatio-temporal mixed particle filter is proposed to track the LED-based grasprectangles which enables video-level annotation of a single grasp rectangle per object. As LEDs blink at highfrequency, the E-Grapsing dataset is annotated in a high frequency of 1 kHz. The original arxiv paper can be found here. The final version will be updated after publication process.
+This is the implementation of our recently work 'Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset'(https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full). 
+We construct a robotic grasping dataset name E-Grapsing with 91 objects. The dataset can be donwload from this link()
 
 If you find it helpful for your research, please consider citing:
 
+```bibtex
+@ARTICLE{10.3389/fnbot.2020.00051,
+  
+AUTHOR={Li, Bin and Cao, Hu and Qu, Zhongnan and Hu, Yingbai and Wang, Zhenke and Liang, Zichen},   
+	 
+TITLE={Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset},      
+	
+JOURNAL={Frontiers in Neurorobotics},      
+	
+VOLUME={14},      
 
-
+PAGES={51},     
+	
+YEAR={2020},      
+	  
+URL={https://www.frontiersin.org/article/10.3389/fnbot.2020.00051},       
+	
+DOI={10.3389/fnbot.2020.00051},      
+	
+ISSN={1662-5218},   
+}
+```
 
 ![image](https://github.com/HuCaoFighting/DVS-GraspingDataSet/blob/master/images/sampleeventrgb.jpg)
 # DataSets
