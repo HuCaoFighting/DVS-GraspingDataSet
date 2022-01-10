@@ -1,5 +1,5 @@
 # Event-based Robotic Grasping Detection with Neuromorphic Vision Sensor and Event-Grasping Dataset
-a Grasping DataSet Captured by DVS (Dynamic vision sensor)
+A Grasping DataSet Captured by DVS (Dynamic vision sensor)
 
 # Overview
 This is the implementation of our recently work 'Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset'(https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full). 
