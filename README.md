@@ -3,7 +3,7 @@ a Grasping DataSet Captured by DVS (Dynamic vision sensor)
 
 # Overview
 This is the implementation of our recently work 'Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset'(https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full). 
-We construct a robotic grasping dataset name E-Grapsing with 91 objects. The dataset can be donwload from this link()
+We construct a robotic grasping dataset name E-Grapsing with 91 objects. The dataset can be donwload from this link(https://drive.google.com/file/d/1frAvxFjjhBzhhNd2SeDKN1R6E417jD3L/view?usp=sharing)
 
 If you find it helpful for your research, please cite:
 
