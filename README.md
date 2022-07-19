@@ -35,14 +35,13 @@ ISSN={1662-5218},
 }
 ```
 
-### DataSets
-### Single Grasp DataSets
+### 1.1 Single Grasp DataSets
 We represent the tracked LED points with rectangles, each event frame acquires the ground truth of a good grasping position, as is shown in below
 
 
 ![image](https://github.com/HuCaoFighting/DVS-GraspingDataSet/blob/master/images/single_posi.png)
 
-### Multi-Grasp DataSets
+### 1.2 Multi-Grasp DataSets
 We manually set ground truth annotations in the first frame, the transformed annotations in any other frame canbe attained. The final dataset with multi-grasping annotations is illustrated in below
   
   
