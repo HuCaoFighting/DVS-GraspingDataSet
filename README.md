@@ -46,3 +46,23 @@ We manually set ground truth annotations in the first frame, the transformed ann
   
   
  ![image](https://github.com/HuCaoFighting/DVS-GraspingDataSet/blob/master/images/multi_posi.png)
+ 
+ ## 2. NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation
+This is the implementation of our recently work 'NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation'. 
+We construct a neuromorphic vision-based robotic grasp dataset with 154 moving objects, named NeuroGrasp, which is the first RGB-Event multimodality grasp dataset (to the best of our knowledge). The dataset can be donwload from this link(https://drive.google.com/file/d/1YVBJct2aZmugWolKTI-d-zUoVKnViIb6/view?usp=sharing)
+
+![image](https://github.com/HuCaoFighting/DVS-GraspingDataSet/blob/master/images/RGB_DVS.jpg)
+
+If you find it helpful for your research, please cite:
+
+```bibtex
+@ARTICLE{9787342,
+  author={Cao, Hu and Chen, Guang and Li, Zhijun and Hu, Yingbai and Knoll, Alois},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation}, 
+  year={2022},
+  volume={71},
+  number={},
+  pages={1-11},
+  doi={10.1109/TIM.2022.3179469}}
+```
